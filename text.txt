@@ -1,0 +1,21 @@
+01. cd "D:\VS Code\Git"                                This is for opening this repositry
+02. git config --global user.name "Your Name"          To set user name
+03. git config --global user.email "your@email.com"    To set user email
+04. git config --global --edit                         To see user information
+05. git init	                                       Create a new local Git repository
+    git clone <repo_url>                               Copy an existing repo from remote (GitHub, etc.)	git clone https://github.com/user/repo.git
+06. git status                                         Show changed/untracked files
+07. git add <file>                                     Stage changes
+08. git add .                                          Stage all changes
+09. git commit -m "Message"                            Save staged changes
+10. git commit -am "Message"                           Add & commit tracked files in one step
+11. git log	                                           Show commit history
+12. git branch                                         List branches
+13. git branch <name>                                  Create new branch
+14. git checkout <name>                                Switch branch
+15. git switch <name>                                  (Newer way) Switch branch
+16. git checkout -b <name>                             Create & switch branch
+17. git merge <branch>                                 Merge into current branch
+18. git branch -d <name>                               Delete branch
+19. 
+10. 
