@@ -17,5 +17,6 @@
 16. git checkout -b <name>                             Create & switch branch
 17. git merge <branch>                                 Merge into current branch
 18. git branch -d <name>                               Delete branch
-19. 
-10. 
+19. To add to github repositry :-
+    git remote add origin https://github.com/ArjunDahiya-code/Git.git
+20. 
